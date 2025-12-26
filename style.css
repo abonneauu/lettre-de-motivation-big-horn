@@ -17,7 +17,7 @@ body {
 
 .container {
   width: 100%;
-  max-width: 850px; 
+  max-width: 800px; 
   display: flex;
   justify-content: center;
   z-index: 1;
@@ -102,7 +102,7 @@ font-size: clamp(1.2rem, 3vw, 1.82rem);
 
 .signature {
   position: absolute;
-  bottom: 4%;
+  bottom: 2%;
   left: 63%;
    width: 5%;
   height: auto;
@@ -115,4 +115,5 @@ font-size: clamp(1.2rem, 3vw, 1.82rem);
     grid-template-columns: 1fr; 
     gap: 1rem;
   }
+
 }
